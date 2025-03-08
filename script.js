@@ -1,4 +1,4 @@
-function numberGussingGame() {
+function numberGuessingGame() {
     var num = Math.floor(Math.random() * 10) + 1;
   
     alert("Guess the number from 1 to 10: ");
@@ -28,4 +28,4 @@ function numberGussingGame() {
     }
   }
   
-  numberGussingGame()
+  numberGuessingGame()
